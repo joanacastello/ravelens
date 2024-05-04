@@ -8,7 +8,7 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
+3. ⚡ [Features](#features)
 4. 🤸 [Quick Start]()
 
 
