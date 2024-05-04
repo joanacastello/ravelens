@@ -1,5 +1,7 @@
-
 <h1 align="center">ravelens</h1>
+
+<img width="936" alt="image" src="https://github.com/joanacastello/ravelens/assets/43773717/b55084c9-3dd0-4e4b-819c-4851842ed84c">
+
 
 # 📋 Table of Contents
 
