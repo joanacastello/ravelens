@@ -13,7 +13,7 @@
 
 
 # 🤖 Introduction
-Ravelens is the perfect social media for ravers, where you can add all your favourite festival pics and navigate through your friends' posts too. Built with ReactJS as my first time working with this framework. It also integrates with Sanity.io to storage all the data.
+Ravelens is the perfect social media for ravers, where you can add all your favourite festival pics and navigate through your friends' posts too. You can access to the website by clicking this [link](http://ravelens.netlify.app) Built with ReactJS as my first time working with this framework. It also integrates with Sanity.io to storage all the data.
 
 This repository contains the code corresponding to an amazing [Youtube tutorial](https://www.youtube.com/watch?v=XxXyfkrP298&t=19549s&ab_channel=JavaScriptMastery) made by a channel called [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos) that covers the basics of React Web Developement, at the same time that provides a complete Fullstack application.
 
